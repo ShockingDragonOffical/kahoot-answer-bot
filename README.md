@@ -1,5 +1,5 @@
 # Kahoot Answer Bot
-A bot that takes the name or ID of a kahoot and gets a perfect score with the nickname of your choosing.
+CREDIT TO REYMO A bot that takes the name or ID of a kahoot and gets a perfect score with the nickname of your choosing.
 
 *This project was started by [reteps](https://github.com/reteps/kbot) but is has been broken for quite a while, so I forked it and made it work.*
 
